@@ -4,8 +4,8 @@ import turtle
 
 import pandas as pd
 
-BG_IMAGE = "blank_states_img.gif"
-INPUT_CSV_FILE = "50_states.csv"
+BG_IMAGE = "day25/blank_states_img.gif"
+INPUT_CSV_FILE = "day25/50_states.csv"
 OUTPUT_CSV_FILE = "states_to_learn.csv"
 FONT = ("Arial", 10, "normal")
 
