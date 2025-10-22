@@ -9,7 +9,7 @@ import colorgram
 def paint(cols, rows):
     """Takes number of columns and rows as INT and paints a dot of random color at each position."""
     # extract the colors
-    extracted_colors = colorgram.extract("image.jpg", 30)
+    extracted_colors = colorgram.extract("day18/image.jpg", 30)
     color_list = []
     for col in extracted_colors:
         color_list.append(col.rgb)

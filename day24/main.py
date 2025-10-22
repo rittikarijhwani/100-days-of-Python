@@ -1,9 +1,9 @@
 # Mail Merge
 
 #relative paths
-LETTER_TEMPLATE = "./Input/Letters/starting_letter.txt"
-INVITED_NAMES = "./Input/Names/invited_names.txt"
-OUTPUT_FOLDER = "./Output/ReadyToSend/"
+LETTER_TEMPLATE = "day24/Input/Letters/starting_letter.txt"
+INVITED_NAMES = "day24/Input/Names/invited_names.txt"
+OUTPUT_FOLDER = "day24/Output/ReadyToSend/"
 
 
 def load_template(text_file):

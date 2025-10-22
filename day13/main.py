@@ -1,5 +1,4 @@
-
-# Debugging
+# General Debugging
 
 # ====ORIGINAL====================================================
 

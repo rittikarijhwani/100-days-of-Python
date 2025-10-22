@@ -1,4 +1,5 @@
 # Guess the Number
+
 import random
 
 def play(a, b, diff, cheat_mode):
@@ -89,7 +90,7 @@ while True:
     }
     # enable "testing" mode
     # REQUIREMENT: BOOL
-    testing_mode = False
+    testing_mode = True
 
     print("Welcome to the Number Guessing Game!\n")
     print(f"I'm thinking of a number between {num_from} and {num_to}.")
